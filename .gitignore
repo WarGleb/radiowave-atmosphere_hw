@@ -1,0 +1,21 @@
+# Эталонные решения и ответы (только у преподавателя)
+_teacher/
+
+# Python и служебные файлы
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.asv
+*.m~
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+_teacher/
+
+# Ваши копии источников (авторские права, в репозиторий не кладутся)
+sources/
+tools/library.ini
