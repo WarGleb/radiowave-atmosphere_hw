@@ -4,6 +4,8 @@
 
 > Прочитайте [HOWTO_sources.md](HOWTO_sources.md) и заведите SOURCES.md по шаблону из [student-template/](student-template/). Формулы, для которых нет доступного вам источника, даны в условии. Результат сдаётся в ваш приватный репозиторий ([HOWTO_github.md](HOWTO_github.md)).
 
+> **Время работы.** Перед началом дважды щёлкните `start.bat` из вашего репозитория и введите номер задания, в конце сеанса — `stop.bat` ([подробнее](student-template/README.md)).
+
 ## Исходные данные
 
 Ваш вариант $n$ — номер из списка группы. Полные таблицы вариантов: [variants/variants_dz11.csv](variants/variants_dz11.csv).
